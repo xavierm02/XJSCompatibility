@@ -1,0 +1,3 @@
+[submodule "build/XSHMakeFile"]
+	path = build/XSHMakeFile
+	url = https://github.com/xavierm02/XSHMakeFile
